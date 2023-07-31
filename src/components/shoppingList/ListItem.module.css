@@ -1,0 +1,9 @@
+.item{
+    width: 25rem;
+    margin: 1rem auto;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    background-color: #A0AFA0;
+    list-style: none;
+}
