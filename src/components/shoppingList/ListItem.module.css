@@ -6,4 +6,11 @@
     font-weight: bold;
     background-color: #A0AFA0;
     list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item h3{
+    margin: 0;
+    padding: 0;
 }

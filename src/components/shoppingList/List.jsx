@@ -7,7 +7,7 @@ function List(props){
     return(
         <ul className={style.list}>
             {props.list.map((item) => 
-            <ListItem item={item.item} key={item.id} />
+            <ListItem item={item.item} key={item.id} id={item.id} deleteItem={props.onDelete} />
             )}
         </ul>
     );

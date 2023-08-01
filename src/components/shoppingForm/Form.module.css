@@ -26,7 +26,7 @@
     margin-bottom: 1rem;
 }
 
-.shopping-form button {
+button {
     width: 6rem;
     padding: 0.4rem;
     background-color: #72D3F5;
@@ -35,7 +35,7 @@
     cursor: pointer;
 }
 
-.shopping-form button:hover{
+button:hover{
     background-color: #44cafa;
     border: 1px solid #44cafa;
 }
