@@ -13,6 +13,9 @@ The Shopping List App is a simple web application built using React that allows 
 - CSS Modules: For styling components with modular CSS.
 - Math.random: Used to generate unique IDs for list items.
 
+## Getting started
+To use Shopping List App, visit the application's website at https://sreeyu.github.io/shopping_list/. The website is accessible from any modern web browser.
+
 ## Usage
 1. Adding Items:
 
